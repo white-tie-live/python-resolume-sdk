@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/Users/allen/Code",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Allen Ellis",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "allen@friendshipcreative.com",
+  "friendly_name": "Resolume SDK",
+  "github_user": "allenellis",
+  "license": "MIT",
+  "package_name": "resolume_sdk",
+  "project_name": "resolume_sdk",
+  "version": "0.0.0"
+}
